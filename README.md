@@ -1,6 +1,6 @@
 # Web Scraping de Alkosto
 
-Script de web scraping con Selenium para extraer información de productos del sitio e-commerce de Alkosto. Este proyecto extrae el nombre, precio e imagen de los productos disponibles relacionados con la palabra 'celular' en la tienda online de Alkosto.
+Script de web scraping con Selenium para extraer información de productos del sitio e-commerce de Alkosto. Este proyecto extrae el nombre, precio e imagen de los productos disponibles relacionados con la palabra 'celulares' en la tienda online de Alkosto.
 
 ## Características
 
