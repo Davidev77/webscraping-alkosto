@@ -1,6 +1,6 @@
 # Web Scraping de Alkosto
 
-Script de web scraping con Selenium para extraer información de productos del sitio e-commerce de Alkosto. Este proyecto extrae el nombre, precio e imagen de los celulares disponibles en la tienda online.
+Script de web scraping con Selenium para extraer información de productos del sitio e-commerce de Alkosto. Este proyecto extrae el nombre, precio e imagen de los productos disponibles relacionados con la palabra 'celular' en la tienda online de Alkosto.
 
 ## Características
 
@@ -45,13 +45,6 @@ O usando el archivo `requirements.txt`:
 ```
 pip install -r requirements.txt
 ```
-
-## Dependencias necesarias
-
-pip install jupyter lab
-pip install selenium
-pip install pandas
-
 ## Configuración
 
 - La URL de Alkosto ya está configurada en el código, pero puedes modificarla según la categoría que desees scrapear, yo busqué 'celulares' pero tu puedes buscar cualquier otro producto
